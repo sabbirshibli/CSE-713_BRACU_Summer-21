@@ -29,7 +29,8 @@ I've discussed each of these algorithms in a brief. If you have any questions re
 
 [![CSE-713_BRACU_Summer-21](https://img.youtube.com/vi/3LVK-uhUjlw/0.jpg)](https://www.youtube.com/watch?v=3LVK-uhUjlw)
 
-**Or, you can access the video directly by this link:** https://www.youtube.com/watch?v=3LVK-uhUjlw  
+**Or, you can access the video directly by this link: (Recommended Watch)** https://www.youtube.com/watch?v=3LVK-uhUjlw  
+**Github link for the video:** https://github.com/sabbirshibli/CSE-713_BRACU_Summer-21/issues/1  
 
 **Submission Information:**  
 Name: Sabbir Ahmed Sibli  
