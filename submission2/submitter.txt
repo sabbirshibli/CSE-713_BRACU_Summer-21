@@ -1,0 +1,4 @@
+Name: Sabbir Ahmed Sibli, ID: 20266027  
+Name: Nuray Jannat, ID: 20266028  
+Course: CSE 713 - Advanced Syntactic Pattern Recognition  
+Semester: Summer 2021 
